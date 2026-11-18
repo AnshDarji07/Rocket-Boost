@@ -5,7 +5,7 @@ A 3D low-poly arcade game made with Unity 6. Fly your rocket through obstacles a
 **Play it in your browser:** https://islander-07.itch.io/rocket-boost
 
 ## Controls
-- Thrust key: boost
+- Spacebar key: boost (Thrust)
 - Left/Right keys: rotate
 
 ## Built with
